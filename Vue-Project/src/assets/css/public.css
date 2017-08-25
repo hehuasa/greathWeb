@@ -1,0 +1,54 @@
+html {
+  height: 100%;
+}
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+img {
+  height: 100%;
+  width: 100%;
+}
+.display-none {
+  display: none;
+}
+.blue {
+  color: #0059ca;
+}
+.full-screen {
+  width: 100%;
+}
+.text-center {
+  text-align: center;
+}
+.inline-block {
+  display: inline-block;
+}
+.fixed{
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: 200;
+}
+.back-white{
+  background: #fafafa
+}
+.position {
+  position: absolute;
+}
+.relative {
+  position: relative;
+}
+.active {
+  background: blue !important;
+}
+.float-left {
+  float: left;
+}
+.float-right {
+  float: right;
+}
+.pointer {
+  cursor: pointer;
+}
